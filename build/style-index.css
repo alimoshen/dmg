@@ -1,0 +1,25 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+.dmg-alert {
+  box-sizing: border-box;
+  color: "#000";
+  padding: 2px 10px;
+}
+.dmg-alert.error {
+  color: red;
+  background-color: #ffcccc;
+  border-left: 10px red solid;
+}
+.dmg-alert.warning {
+  color: "#000";
+  background-color: LemonChiffon;
+  border-left: 10px #ffeb34 solid;
+}
+.dmg-alert.notice {
+  color: DarkSlateGray;
+  background-color: PowderBlue;
+  border-left: 10px #3db2c0 solid;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

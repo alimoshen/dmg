@@ -1,0 +1,24 @@
+$default: '#000';
+
+.dmg-alert {
+	box-sizing: border-box;
+	color: $default;
+	padding: 2px 10px;
+	&.error {
+		color: red;
+		background-color: lighten(red,40%);
+		border-left: 10px red solid;
+	}
+	&.warning {
+		color: $default;
+		background-color: LemonChiffon;
+		border-left: 10px darken(LemonChiffon,30%) solid;
+	}
+	&.notice {
+		color: DarkSlateGray;
+		background-color: PowderBlue;
+		border-left: 10px darken(PowderBlue,30%) solid;
+	}
+
+}
+

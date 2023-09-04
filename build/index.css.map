@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAEA;EACC;EACA;AADD,C","sources":["webpack://dmgblock/./src/editor.scss"],"sourcesContent":["// Editor CSS for DMG block\n\n.wp-block-create-block-dmgblock {\n\tborder: 1px dotted #000;\n\tpadding: 10px;\n}\n"],"names":[],"sourceRoot":""}
